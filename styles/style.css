@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/style\.sass}line{font-family:\000033}}
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: Lato, sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/style\.sass}line{font-family:\0000311}}
+a {
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/style\.sass}line{font-family:\0000316}}
+.container {
+  width: 1140px;
+  margin: 0 auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\000031}}
+.header {
+  min-height: 100px;
+  background-color: #ffffff;
+  border: 1px solid #ececec;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.17);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.17);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\000039}}
+.header-left__brand {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\0000313}}
+.logo {
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\0000316}}
+.brandname {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 1.688rem;
+  font-weight: 300;
+  line-height: 1.185;
+  color: #222222;
+  margin-left: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\0000324}}
+  .brandname .color-pink {
+    font-weight: 900; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Work\/geek_br\/_proj\/styles\/_header\.sass}line{font-family:\0000327}}
+.color-pink {
+  color: #f16d7f; }
